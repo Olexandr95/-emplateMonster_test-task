@@ -17,4 +17,5 @@
 - Open a new bash shell
 - npm install or yarn install
 - npm run start or yarn start
+- you can visit cite on  https://olexandr95.github.io/TemplateMonster_test-task/
 
