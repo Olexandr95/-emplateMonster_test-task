@@ -63,7 +63,7 @@
 }
 
 .slider__wrap .btn__close,
-.slider__wrap .btnPrev,
+.slider__wrap .btn__prev,
 .slider__wrap .btn__next,
 .btn__add,
 .calc-number-slides {
@@ -75,7 +75,7 @@
 }
 
 .btn__next:hover,
-.btnPrev:hover,
+.btn__prev:hover,
 .btn__add:hover,
 .btn__close:hover {
   opacity: 1;
@@ -94,7 +94,7 @@
   right: 40px;
 }
 
-.slider__wrap .btnPrev {
+.slider__wrap .btn__prev {
   top: 50%;
   transform: translateY(-50%);
   left: 40px;
