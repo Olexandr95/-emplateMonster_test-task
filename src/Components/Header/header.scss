@@ -1,0 +1,24 @@
+.header {
+    height: 60px;
+}
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+}
+.link {
+    text-decoration: none;
+    color: #000;
+    list-style: none;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+li:hover {
+    cursor: pointer;
+    border-bottom: rgb(221, 24, 24) 2px solid;
+    transition: 0.5;
+}
+li {
+    list-style: none;
+}
